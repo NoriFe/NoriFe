@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm Norbert, a passionate Web/Software developer with a love for learning new languages. Here you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm Norbert. While many might label me as a passionate Web/Software developer, I see myself as someone eager to carve out my unique path in the IT industry. I am full of energy and love for learning new languages. 
 
 ## 🚀 About Me
 
