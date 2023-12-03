@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm Norbert. While many might label me as a passio
 
 ## 🚀 About Me
 
-- 💼 Currently working as a freelance helping here and there.
+- 💼 Currently Looking for a job.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 🤝 Open to collaboration on projects.
 - 📫 You can reach me at norbert.fe.dev@gmail.com
