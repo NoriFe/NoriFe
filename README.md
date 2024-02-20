@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norbert Skwierczynski</h1>
 <h3 align="center">Junior Full Stack developer</h3>
-<p align="center">Before I was a joiner who always was using tech in his job even a simple check corner I have used APP for it.</p>
+<p align="center">Before I was a joiner, I always used technology in my work, even for simple tasks like checking corners. Recently, I finished a 9-week online Boot Camp with Le Wagon, where I learned more about technology to blend with my craftsmanship.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norife" alt="norife" /></a> </p>
 
