@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Norbert Skwierczynski</h1>
 <h3 align="center">Junior Full Stack developer</h3>
-<p align="center">Before I was a joiner, I always used technology in my work, even for simple tasks like checking corners. Recently, I finished a 9-week online Boot Camp with Le Wagon, where I learned more about technology to blend with my craftsmanship.</p>
+<p align="center">Before I was a joiner 📐, I always used technology 📱 in my work, even for simple tasks like checking corners. Recently, I finished a 9-week online Boot Camp with Le Wagon, where I learned more about technology to blend with my craftsmanship.</p>
 <br><br>
 
 - 🔭 I’m currently working on project **"quickquizz"** Ruby on Rails APP
 
-- 🌱 I’m currently working to improve my skills on Ruby on Rails
+- 🌱 I’m currently working to improve my skills in Ruby on Rails
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoriFe](https://github.com/NoriFe)
 
