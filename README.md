@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Norbert Skwierczynski</h1>
 <h3 align="center">Junior Full Stack developer</h3>
+<p align="center">Before I was a joiner who always was using tech in his job even a simple check corner I have used APP for it.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norife" alt="norife" /></a> </p>
 
-- 🔭 I’m currently working on **"quickquizz" Ruby on Rails App**
+- 🔭 I’m currently working on project **"quickquizz"** Ruby on Rails APP
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently working to improve my skills on Ruby on Rails
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoriFe](https://github.com/NoriFe)
 
