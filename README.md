@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norbert Skwierczynski</h1>
 <h3 align="center">Junior Full Stack developer</h3>
 <p align="center">
-Not your average alien here!👽 Transitioning from management to a tech-savvy career path. Detail-oriented with a knack for teamwork, I'm all about diving into the fascinating world of technology 📱. From managing corners to coding corners, there's nothing I can't tackle! Completed a Le Wagon Boot Camp 🚀 for a tech boost. And when I'm not debugging, you'll find me jamming out to some tunes 🎵. Let's rock this cosmic journey together!</p>
+Not your average alien here!👽 Transitioning from management, construction, owner, manufacturer, and many more 🤯 to a tech-savvy career path. Detail-oriented with a knack for teamwork, I'm all about diving into the fascinating world of technology 📱. From managing corners to coding corners, there's nothing I can't tackle! Completed a Le Wagon Boot Camp 🚀 for a tech boost. And when I'm not debugging, you'll find me jamming out to some tunes 🎵. Let's rock this cosmic journey together!</p>
 <br><br>
 
 - 🔭 I’m currently working on project **"quickquizz"** Ruby on Rails APP
