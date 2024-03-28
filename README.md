@@ -6,7 +6,7 @@ Not your average alien here!👽 Transitioning from management, construction, ow
 
 - 🔭 I’m currently working on project **"quickquizz"** Ruby on Rails APP
 
-- 🌱 I’m currently working to improve my skills in Ruby on Rails
+- 🌱 I’m currently working to improve my skills in Ruby on Rails, React, PHP with Laravel
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoriFe](https://github.com/NoriFe)
 
