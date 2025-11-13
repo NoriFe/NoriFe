@@ -86,9 +86,9 @@ Not your average alien here!👽 Transitioning from management, construction, ow
   <span class="pl-c1">toolsUsed</span>: <span class="pl-kos">[</span><span class="pl-s">"VSCode"</span><span class="pl-kos">,</span> <span class="pl-s">"Bootstrap"</span><span class="pl-kos">,</span> <span class="pl-s">"Figma"</span><span class="pl-kos">,</span> <span class="pl-s">"GitHub"</span><span class="pl-kos">, </span><span class="pl-s">"PostgreSQL"</span><span class="pl-kos">,</span> <span class="pl-s">"Heroku"</span><span class="pl-kos">,</span> <span class="pl-s">"Ruby on Rails"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">pastExperience</span>: <span class="pl-kos">[</span>
     <span class="pl-kos">{</span>
-      <span class="pl-c1">company</span> : <span class="pl-s">"Self taught"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">post</span> : <span class="pl-s">"Owner :P"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">duration</span> : <span class="pl-s">"2 years and a half"</span>
+      <span class="pl-c1">company</span> : <span class="pl-s">"School private projects and courses(Udemy) "</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"Never stop Learning"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">duration</span> : <span class="pl-s">"Long time ago and since 2021 refreshing skills"</span>
     <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-kos">]</span><span class="pl-kos">,</span>
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
