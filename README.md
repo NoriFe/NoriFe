@@ -5,7 +5,7 @@ Not your average alien here! 👽 Transitioning from management, construction, o
 
 🎓 Completed a Le Wagon Boot Camp 🚀, finished my HNC and currently pursuing my HND, while starting the exciting road to becoming part of the Red Team in cybersecurity.
 
-When I'm not debugging, you'll find me jamming out to some tunes 🎵. Let's rock this cosmic journey together! 🌌 And hey — don’t be surprised if I try to hack the universe with just a blink of an eye 😉💻✨</p>
+When I'm not debugging, you'll find me jamming out to some tunes 🎵. Let's rock this cosmic journey together! 🌌 And hey... don’t be surprised if I try to hack the universe with just a blink of an eye 😉💻✨</p>
 <br><br>
 
 - 🔭 I’m currently working on project **"PlateTrace"** 
