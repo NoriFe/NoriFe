@@ -81,8 +81,8 @@ Not your average alien here!👽 Transitioning from management, construction, ow
   <span class="pl-c1">education</span>: <span class="pl-s">"HNC in Computing and working on HND"</span><span class="pl-kos">,</span>
   <span class="pl-c1">education</span>: <span class="pl-s">"Le Wagon Online, a 9-week full-time intensive coding bootcamp"</span><span class="pl-kos">,</span>
   <span class="pl-c1">otherAlias</span>: <span class="pl-s">"Junior Full Stack Developer"</span><span class="pl-kos">,</span>
-  <span class="pl-c1">codesIn</span>: <span class="pl-kos">[</span><span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"CSS"</span><span class="pl-kos">,</span> <span class="pl-s">"Ruby"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">currentlylearning</span>: <span class="pl-kos">[</span><span class="pl-s">"Ruby on Rails"</span><span class="pl-kos">],</span>
+  <span class="pl-c1">codesIn</span>: <span class="pl-kos">[</span><span class="pl-s">"PHP"</span><span class="pl-kos">,</span> <span class="pl-s">"JS"</span><span class="pl-kos">,</span> <span class="pl-s">"Ruby"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-c1">currentlylearning</span>: <span class="pl-kos">[</span><span class="pl-s">"Phyton"</span><span class="pl-kos">],</span>
   <span class="pl-c1">toolsUsed</span>: <span class="pl-kos">[</span><span class="pl-s">"VSCode"</span><span class="pl-kos">,</span> <span class="pl-s">"Bootstrap"</span><span class="pl-kos">,</span> <span class="pl-s">"Figma"</span><span class="pl-kos">,</span> <span class="pl-s">"GitHub"</span><span class="pl-kos">, </span><span class="pl-s">"PostgreSQL"</span><span class="pl-kos">,</span> <span class="pl-s">"Heroku"</span><span class="pl-kos">,</span> <span class="pl-s">"Ruby on Rails"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">pastExperience</span>: <span class="pl-kos">[</span>
     <span class="pl-kos">{</span>
