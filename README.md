@@ -4,10 +4,10 @@
 Not your average alien here!👽 Transitioning from management, construction, owner, manufacturer, and many more 🤯 to a tech-savvy career path. Detail-oriented with a knack for teamwork, I'm all about diving into the fascinating world of technology 📱. From managing corners to coding corners, there's nothing I can't tackle! Completed a Le Wagon Boot Camp 🚀 for a tech boost. And when I'm not debugging, you'll find me jamming out to some tunes 🎵. Let's rock this cosmic journey together!</p>
 <br><br>
 
-- 🔭 I’m currently working on project **"quickquizz"** Ruby on Rails APP
+- 🔭 I’m currently working on project **"PlateTrace"** 
 
-- 🌱 I’m currently working to improve my skills in Ruby on Rails, React, PHP with Laravel
-
+- 🌱 I’m currently working to improve my skills in PhP, Python
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/NoriFe](https://github.com/NoriFe)
 
 - 📫 How to reach me **norbert.fe.dev@gmail.com**
@@ -77,6 +77,8 @@ Not your average alien here!👽 Transitioning from management, construction, ow
 <h3 align=center>More about me: </h3>
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-s1">norbertSkwierczynski</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">availableForHire</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+  <span class="pl-c1">education</span>: <span class="pl-s">"TryHackMe - Red Team Road"</span><span class="pl-kos">,</span>
+  <span class="pl-c1">education</span>: <span class="pl-s">"HNC in Computing and working on HND"</span><span class="pl-kos">,</span>
   <span class="pl-c1">education</span>: <span class="pl-s">"Le Wagon Online, a 9-week full-time intensive coding bootcamp"</span><span class="pl-kos">,</span>
   <span class="pl-c1">otherAlias</span>: <span class="pl-s">"Junior Full Stack Developer"</span><span class="pl-kos">,</span>
   <span class="pl-c1">codesIn</span>: <span class="pl-kos">[</span><span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"CSS"</span><span class="pl-kos">,</span> <span class="pl-s">"Ruby"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
